@@ -1,0 +1,20 @@
+.BOX {
+    background-image: url(./images/background.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+
+button {
+    background-color: transparent;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #fbfcfd;
+    outline: none;
+    padding: 10px 25px;
+}
